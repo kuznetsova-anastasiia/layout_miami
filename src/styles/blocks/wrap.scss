@@ -1,8 +1,0 @@
-.wrap {
-  display: flex;
-  gap: 24px;
-
-  @include onTablet {
-    gap: 55px;
-  }
-}
